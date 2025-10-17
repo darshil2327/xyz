@@ -1,6 +1,6 @@
 # URL is for if you want to host your own copy of this payload
 
-#$url = "https://raw.githubusercontent.com/darshil2327/Darshil/refs/heads/main/Image%20Text%20Editor%2C%20Screenshot%20Text%20Editor%20-%20PhoText%20-%20Google%20Chrome%2014-10-2025%2013_21_45.png"
+#$url = "https://github.com/darshil2327/Darshil.git"
 
 
 $wp = "$Env:tmp\---wp.png"
